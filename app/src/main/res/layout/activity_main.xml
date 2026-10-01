@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:background="#FFFFFF"
         android:padding="8dp"
-        android:text="Wprowadzenie danych do paszportu. Wykonał: Paweł Blicharski.git add ."
+        android:text="Wprowadzenie danych do paszportu. Wykonał: Paweł Blicharski."
         android:textColor="#000000" />
 
     <ScrollView
