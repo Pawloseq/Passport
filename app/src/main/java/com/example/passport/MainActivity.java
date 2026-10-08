@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     private void zatwierdzDane() {
         String imie = editImie.getText().toString().trim();
         String nazwisko = editNazwisko.getText().toString().trim();
